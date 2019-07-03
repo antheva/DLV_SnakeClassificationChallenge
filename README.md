@@ -1,3 +1,3 @@
 # DLV_SnakeClassificationChallenge
 
-Repository for the Deep Learnin for Vision project, July 2019
+Repository for the Deep Learning for Vision project, July 2019
